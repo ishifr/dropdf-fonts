@@ -1,0 +1,780 @@
+{
+ "schema": 1,
+ "source": {
+  "repo": "dropdf-fonts",
+  "tag": "v1.0.0",
+  "commit": "local"
+ },
+ "files": [
+  {
+   "path": "caladea-bold.ae3cb2dcbc92.ttf",
+   "id": "caladea",
+   "family": "Caladea",
+   "style": "bold",
+   "class": "serif",
+   "size": 84492,
+   "sha256": "ae3cb2dcbc925809dd29d2a44e9802211cab66be541bacbfc9c08c74b27c3742",
+   "licence": "OFL-1.1",
+   "licenceFile": "caladea.OFL.ccdab61d371d.txt",
+   "standsFor": [
+    {
+     "name": "Cambria",
+     "match": "metric"
+    },
+    {
+     "name": "Cambria Math",
+     "match": "similar"
+    }
+   ],
+   "ranges": "d,20-7e,a0-161,164-17f,192,1fa-1ff,218-21b,237,2c6-2c7,2c9,2d8-2dd,300-304,306-308,30a-30c,326-328,1e80-1e85,1ebc-1ebd,1ef2-1ef3,1ef8-1ef9,2013-2015,2017-201e,2020-2022,2026,2030,2032-2033,2039-203a,203c,203e,2044,2074,207f,20a3-20a4,20a7,20ac,2105,2113,2116,2122,2126,212e,215b-215e,2190-2195,21a8,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2261,2264-2265,2302,2310,2320-2321,f6c3,fb01-fb02",
+   "core": true
+  },
+  {
+   "path": "caladea-bolditalic.ccabaa7b7e2f.ttf",
+   "id": "caladea",
+   "family": "Caladea",
+   "style": "bolditalic",
+   "class": "serif",
+   "size": 83356,
+   "sha256": "ccabaa7b7e2fdf253d2b1a5fa699dd8a3df8d835a9eb285ad82631a677eb76c0",
+   "licence": "OFL-1.1",
+   "licenceFile": "caladea.OFL.ccdab61d371d.txt",
+   "standsFor": [
+    {
+     "name": "Cambria",
+     "match": "metric"
+    },
+    {
+     "name": "Cambria Math",
+     "match": "similar"
+    }
+   ],
+   "ranges": "d,20-7e,a0-13b,13d-148,14a-161,164-17f,192,1fa-1ff,21a,237,2c6-2c7,2c9,2d8-2dd,300-304,306-308,30a-30c,312,327-328,1e80-1e85,1ebc-1ebd,1ef2-1ef3,1ef8-1ef9,2013-2015,2017-201e,2020-2022,2026,2030,2032-2033,2039-203a,203c,203e,2044,2074,207f,20a3-20a4,20a7,20ac,2105,2113,2116,2122,2126,212e,215b-215e,2190-2195,21a8,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2261,2264-2265,2302,2310,2320-2321,f6c3,fb01-fb02",
+   "core": true
+  },
+  {
+   "path": "caladea-italic.4359a8e24f74.ttf",
+   "id": "caladea",
+   "family": "Caladea",
+   "style": "italic",
+   "class": "serif",
+   "size": 83780,
+   "sha256": "4359a8e24f748b6447b1ff6d7a174febe70961d29f8bb8634b56dacd740a3deb",
+   "licence": "OFL-1.1",
+   "licenceFile": "caladea.OFL.ccdab61d371d.txt",
+   "standsFor": [
+    {
+     "name": "Cambria",
+     "match": "metric"
+    },
+    {
+     "name": "Cambria Math",
+     "match": "similar"
+    }
+   ],
+   "ranges": "d,20-7e,a0-13b,13d-148,14a-161,164-17f,192,1fa-1ff,21a,237,2c6-2c7,2c9,2d8-2dd,300-304,306-308,30a-30c,312,327-328,1e80-1e85,1ebc-1ebd,1ef2-1ef3,1ef8-1ef9,2013-2015,2017-201e,2020-2022,2026,2030,2032-2033,2039-203a,203c,203e,2044,2074,207f,20a3-20a4,20a7,20ac,2105,2113,2116,2122,2126,212e,215b-215e,2190-2195,21a8,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2261,2264-2265,2302,2310,2320-2321,f6c3,fb01-fb02",
+   "core": true
+  },
+  {
+   "path": "caladea-regular.f1e899278b7b.ttf",
+   "id": "caladea",
+   "family": "Caladea",
+   "style": "regular",
+   "class": "serif",
+   "size": 81600,
+   "sha256": "f1e899278b7b4491aba5b6a8253c4b04c050cc59b21865be5c37559a775153cd",
+   "licence": "OFL-1.1",
+   "licenceFile": "caladea.OFL.ccdab61d371d.txt",
+   "standsFor": [
+    {
+     "name": "Cambria",
+     "match": "metric"
+    },
+    {
+     "name": "Cambria Math",
+     "match": "similar"
+    }
+   ],
+   "ranges": "d,20-7e,a0-161,164-17f,192,1fa-1ff,218-21b,237,2c6-2c7,2c9,2d8-2dd,300-304,306-308,30a-30c,326-328,1e80-1e85,1ebc-1ebd,1ef2-1ef3,1ef8-1ef9,2013-2015,2017-201e,2020-2022,2026,2030,2032-2033,2039-203a,203c,203e,2044,2074,207f,20a3-20a4,20a7,20ac,2105,2113,2116,2122,2126,212e,215b-215e,2190-2195,21a8,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2261,2264-2265,2302,2310,2320-2321,f6c3,fb01-fb02",
+   "core": true
+  },
+  {
+   "path": "carlito-bold.bb5d20f79b82.ttf",
+   "id": "carlito",
+   "family": "Carlito",
+   "style": "bold",
+   "class": "sans",
+   "size": 682468,
+   "sha256": "bb5d20f79b82599ec72983597437373a80f2d2085fa91fc144fd74e876a594db",
+   "licence": "OFL-1.1",
+   "licenceFile": "carlito.OFL.58402f82a7c3.txt",
+   "standsFor": [
+    {
+     "name": "Calibri",
+     "match": "metric"
+    },
+    {
+     "name": "Calibri Light",
+     "match": "similar"
+    }
+   ],
+   "ranges": "0,d,20-7e,a0-ac,ae-2b9,2bb-2c8,2cb-2f3,2f5,2f7-2ff,305,30d-311,313-315,318-322,325,329-32b,32f,332-333,336,339-33f,343,346-357,359-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-475,477-486,488-513,e3f,1d00-1d07,1d09-1d58,1d5a-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fbd,1fbf-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-200f,2012-2022,2026,202f-2030,2033-2034,2039-203a,203c-203e,2044,205e-205f,2070-2071,2074-2094,20a0-20b5,20b8-20b9,20dd,2105,2113,2116-2117,2120,2122,2126,212e,2132,214d-214e,2153-215f,2183-2184,2190-2199,21a8,2202,2206,220f,2211-2212,2215,221a,221e-221f,2229,222b,2248,2260-2261,2264-2265,2302,2310,2320-2321,2460-2473,24ea-24f4,24ff-2500,2502,250c,2510,2514,2518,25a1,25aa-25ab,25ca-25cc,25cf,25e6,2600,263c,2669,2776-277f,2c60-2c6c,2c74-2c77,2e17,a717-a71a,a720-a721,f8ff,fb00-fb04,fe20-fe23,feff",
+   "core": true
+  },
+  {
+   "path": "carlito-bolditalic.b32928186c11.ttf",
+   "id": "carlito",
+   "family": "Carlito",
+   "style": "bolditalic",
+   "class": "sans",
+   "size": 808508,
+   "sha256": "b32928186c119599e03ca6a1ffc680fdcb7fac95772f4b95d989cf6cd3861517",
+   "licence": "OFL-1.1",
+   "licenceFile": "carlito.OFL.58402f82a7c3.txt",
+   "standsFor": [
+    {
+     "name": "Calibri",
+     "match": "metric"
+    },
+    {
+     "name": "Calibri Light",
+     "match": "similar"
+    }
+   ],
+   "ranges": "0,d,20-7e,a0-ac,ae-2b9,2bb-2c8,2cb-2f3,2f5,2f7-2ff,305,30d-311,313-315,318-322,325,329-32b,32f,332-333,336,339-33f,343,346-357,359-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-475,477-486,488-513,e3f,1d00-1d07,1d09-1d58,1d5a-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fbd,1fbf-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-200f,2012-2022,2026,202f-2030,2033-2034,2039-203a,203c-203e,2044,205e-205f,2070-2071,2074-2094,20a0-20b5,20b8-20b9,20dd,2105,2113,2116-2117,2120,2122,2126,212e,2132,214d-214e,2153-215f,2183-2184,2190-2199,21a8,2202,2206,220f,2211-2212,2215,221a,221e-221f,2229,222b,2248,2260-2261,2264-2265,2302,2310,2320-2321,2460-2473,24ea-24f4,24ff-2500,2502,250c,2510,2514,2518,25a1,25aa-25ab,25ca-25cc,25cf,25e6,2600,263c,2669,2776-277f,2c60-2c6c,2c74-2c77,2e17,a717-a71a,a720-a721,f8ff,fb00-fb04,fe20-fe23,feff",
+   "core": true
+  },
+  {
+   "path": "carlito-italic.0b019225e58d.ttf",
+   "id": "carlito",
+   "family": "Carlito",
+   "style": "italic",
+   "class": "sans",
+   "size": 615236,
+   "sha256": "0b019225e58d702bfedcbd35c21696769f8ee115cb6343f84c2f240312450d1c",
+   "licence": "OFL-1.1",
+   "licenceFile": "carlito.OFL.58402f82a7c3.txt",
+   "standsFor": [
+    {
+     "name": "Calibri",
+     "match": "metric"
+    },
+    {
+     "name": "Calibri Light",
+     "match": "similar"
+    }
+   ],
+   "ranges": "0,d,20-7e,a0-ac,ae-2b9,2bb-2c8,2cb-2f3,2f5,2f7-2ff,305,30d-311,313-315,318-322,325,329-32b,32f,332-333,336,339-33f,343,346-357,359-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-475,477-486,488-513,e3f,1d00-1d07,1d09-1d58,1d5a-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fbd,1fbf-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-200f,2012-2022,2026,202f-2030,2033-2034,2039-203a,203c-203e,2044,205e-205f,2070-2071,2074-2094,20a0-20b5,20b8-20b9,20dd,2105,2113,2116-2117,2120,2122,2126,212e,2132,214d-214e,2153-215f,2183-2184,2190-2199,21a8,2202,2206,220f,2211-2212,2215,221a,221e-221f,2229,222b,2248,2260-2261,2264-2265,2302,2310,2320-2321,2460-2473,24ea-24f4,24ff-2500,2502,250c,2510,2514,2518,25a1,25aa-25ab,25ca-25cc,25cf,25e6,2600,263c,2669,2776-277f,2c60-2c6c,2c74-2c77,2e17,a717-a71a,a720-a721,f8ff,fb00-fb04,fe20-fe23,feff",
+   "core": true
+  },
+  {
+   "path": "carlito-regular.f6418f708bae.ttf",
+   "id": "carlito",
+   "family": "Carlito",
+   "style": "regular",
+   "class": "sans",
+   "size": 628032,
+   "sha256": "f6418f708baede9789daef5d458c0f53d2a888af9820e8062934e504fedc6595",
+   "licence": "OFL-1.1",
+   "licenceFile": "carlito.OFL.58402f82a7c3.txt",
+   "standsFor": [
+    {
+     "name": "Calibri",
+     "match": "metric"
+    },
+    {
+     "name": "Calibri Light",
+     "match": "similar"
+    }
+   ],
+   "ranges": "0,d,20-7e,a0-ac,ae-2b9,2bb-2c8,2cb-2f3,2f5,2f7-2ff,305,30d-311,313-315,318-322,325,329-32b,32f,332-333,336,339-33f,343,346-357,359-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-475,477-486,488-513,e3f,1d00-1d07,1d09-1d58,1d5a-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fbd,1fbf-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-200f,2012-2022,2026,202f-2030,2033-2034,2039-203a,203c-203e,2044,205e-205f,2070-2071,2074-2094,20a0-20b5,20b8-20b9,20dd,2105,2113,2116-2117,2120,2122,2126,212e,2132,214d-214e,2153-215f,2183-2184,2190-2199,21a8,2202,2206,220f,2211-2212,2215,221a,221e-221f,2229,222b,2248,2260-2261,2264-2265,2302,2310,2320-2321,2460-2473,24ea-24f4,24ff-2500,2502,250c,2510,2514,2518,25a1,25aa-25ab,25ca-25cc,25cf,25e6,2600,263c,2669,2776-277f,2c60-2c6c,2c74-2c77,2e17,a717-a71a,a720-a721,f8ff,fb00-fb04,fe20-fe23,feff",
+   "core": true
+  },
+  {
+   "path": "comic-relief-bold.6d2160d7eb68.ttf",
+   "id": "comic-relief",
+   "family": "Comic Relief",
+   "style": "bold",
+   "class": "casual",
+   "size": 69184,
+   "sha256": "6d2160d7eb68523cc26afe77d295a1b8cc104112cdf931fb0eb5cbac4cea3ed9",
+   "licence": "OFL-1.1",
+   "licenceFile": "comic-relief.OFL.997801586dba.txt",
+   "standsFor": [
+    {
+     "name": "Comic Sans MS",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-17f,192,1a0-1a1,1af-1b0,1fa-1ff,218-21b,237,2c6-2c7,2c9,2d8-2dd,300-30c,31b,323,326-328,37e,384-38a,38c,38e-3a1,3a3-3ce,401-40c,40e-44f,451-45c,45e-45f,490-491,1e80-1e85,1e9e,1ea0-1ef9,2013-2015,2017-201e,2020-2022,2026,2030,2032-2033,2039-203a,203c,203e,2044,207f,20a3-20a4,20a7,20ac,2105,2113,2116,2120,2122,2126,212e,215b-215e,2202,2206,220f,2211-2212,2215,2219-221a,221e,222b,2248,2260,2264-2265,2500,2502,250c,2510,2514,2518,25a1,25aa-25ab,25ca,25cf,25e6,266a,fb01-fb02",
+   "core": false
+  },
+  {
+   "path": "comic-relief-regular.be384e0328ee.ttf",
+   "id": "comic-relief",
+   "family": "Comic Relief",
+   "style": "regular",
+   "class": "casual",
+   "size": 58320,
+   "sha256": "be384e0328ee9623a4d39676314d7b99df81cd7320932e6adcfc4f821f13e98e",
+   "licence": "OFL-1.1",
+   "licenceFile": "comic-relief.OFL.997801586dba.txt",
+   "standsFor": [
+    {
+     "name": "Comic Sans MS",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-17f,192,1a0-1a1,1af-1b0,1fa-1ff,218-21b,237,2c6-2c7,2c9,2d8-2dd,300-30c,31b,323,326-328,37e,384-38a,38c,38e-3a1,3a3-3ce,401-40c,40e-44f,451-45c,45e-45f,490-491,1e80-1e85,1e9e,1ea0-1ef9,2013-2015,2017-201e,2020-2022,2026,2030,2032-2033,2039-203a,203c,203e,2044,207f,20a3-20a4,20a7,20ac,2105,2113,2116,2120,2122,2126,212e,215b-215e,2202,2206,220f,2211-2212,2215,2219-221a,221e,222b,2248,2260,2264-2265,2500,2502,250c,2510,2514,2518,25a1,25aa-25ab,25ca,25cf,25e6,266a,fb01-fb02",
+   "core": false
+  },
+  {
+   "path": "gelasio-bold.e0ef3addf1ac.ttf",
+   "id": "gelasio",
+   "family": "Gelasio",
+   "style": "bold",
+   "class": "serif",
+   "size": 148380,
+   "sha256": "e0ef3addf1acf35f5c6aef2be00d0a2c01363bf70a5950e16650976051a0c462",
+   "licence": "OFL-1.1",
+   "licenceFile": "gelasio.OFL.b393cb01867c.txt",
+   "standsFor": [
+    {
+     "name": "Georgia",
+     "match": "metric",
+     "lineMetrics": {
+      "ascent": 0.917,
+      "descent": 0.219
+     }
+    }
+   ],
+   "ranges": "d,20-7f,a0-ac,ae-148,14a-17f,181,186,189-18a,18e-190,192,197-19a,19c-19d,1a0-1a1,1a9,1af-1b1,1b3-1b4,1b7,1c4-1f5,1f8-21b,21e-21f,226-233,237,23a-23e,241-242,244-247,253-254,256-257,259,25b,265,268,26f,272,275,283,289-28a,28c,292,294-295,298,2b9-2c0,2c6-2cc,2d8-2dd,300-304,306-30c,30f,311-313,315,31b,323-329,32d-332,335,391-392,394-397,399-39a,39c-39d,39f,3a1,3a3-3a5,3a7,3a9,3bc,3c0,e3f,1e00-1e97,1e9e,1ea0-1ef9,2000-200d,2010-2015,2018-201e,2020-2022,2026,202f-2030,2032-2033,2039-203a,203c,2044,2052,205f,2070,2074-2079,2080-2089,20a1,20a3-20a4,20a6-20a7,20a9,20ab-20ad,20b1-20b2,20b4-20b5,20b8-20ba,20bc-20bd,2105-2106,2113,2116-2117,2120,2122,2126,212e,2153-2154,215b-215e,2190-2199,2202,2205-2206,220f,2211-2212,2215,2219-221a,221e,222b,2248,2260,2264-2265,25ca,25cc,27e8-27e9,2c65-2c66,a78b-a78c,a7ae,fb01-fb02",
+   "core": false
+  },
+  {
+   "path": "gelasio-bolditalic.aa87e21b46ae.ttf",
+   "id": "gelasio",
+   "family": "Gelasio",
+   "style": "bolditalic",
+   "class": "serif",
+   "size": 160812,
+   "sha256": "aa87e21b46aef3dcb50a68dc6e1946f0c0a9819d067e4be6a98a6daa8f5b3c16",
+   "licence": "OFL-1.1",
+   "licenceFile": "gelasio.OFL.b393cb01867c.txt",
+   "standsFor": [
+    {
+     "name": "Georgia",
+     "match": "metric",
+     "lineMetrics": {
+      "ascent": 0.917,
+      "descent": 0.219
+     }
+    }
+   ],
+   "ranges": "d,20-7f,a0-ac,ae-148,14a-17f,181,186,189-18a,18e-190,192,197-19a,19c-19d,1a0-1a1,1a9,1af-1b1,1b3-1b4,1b7,1c4-1f5,1f8-21b,21e-21f,226-233,237,23a-23e,241-242,244-247,253-254,256-257,259,25b,265,268,26f,272,275,283,289-28a,28c,292,294-295,298,2b9-2c0,2c6-2cc,2d8-2dd,300-304,306-30c,30f,311-313,315,31b,323-329,32d-332,335,391-392,394-397,399-39a,39c-39d,39f,3a1,3a3-3a5,3a7,3a9,3bc,3c0,e3f,1e00-1e97,1e9e,1ea0-1ef9,2000-200d,2010-2015,2018-201e,2020-2022,2026,202f-2030,2032-2033,2039-203a,203c,2044,2052,205f,2070,2074-2079,2080-2089,20a1,20a3-20a4,20a6-20a7,20a9,20ab-20ad,20b1-20b2,20b4-20b5,20b8-20ba,20bc-20bd,2105-2106,2113,2116-2117,2120,2122,2126,212e,2153-2154,215b-215e,2190-2199,2202,2205-2206,220f,2211-2212,2215,2219-221a,221e,222b,2248,2260,2264-2265,25ca,25cc,27e8-27e9,2c65-2c66,a78b-a78c,a7ae,fb01-fb02",
+   "core": false
+  },
+  {
+   "path": "gelasio-italic.1d8bda4ff258.ttf",
+   "id": "gelasio",
+   "family": "Gelasio",
+   "style": "italic",
+   "class": "serif",
+   "size": 160268,
+   "sha256": "1d8bda4ff258bb8251eae4f7d7500c8d97d084136192bb264bc2305168765d1b",
+   "licence": "OFL-1.1",
+   "licenceFile": "gelasio.OFL.b393cb01867c.txt",
+   "standsFor": [
+    {
+     "name": "Georgia",
+     "match": "metric",
+     "lineMetrics": {
+      "ascent": 0.917,
+      "descent": 0.219
+     }
+    }
+   ],
+   "ranges": "d,20-7f,a0-ac,ae-148,14a-17f,181,186,189-18a,18e-190,192,197-19a,19c-19d,1a0-1a1,1a9,1af-1b1,1b3-1b4,1b7,1c4-1f5,1f8-21b,21e-21f,226-233,237,23a-23e,241-242,244-247,253-254,256-257,259,25b,265,268,26f,272,275,283,289-28a,28c,292,294-295,298,2b9-2c0,2c6-2cc,2d8-2dd,300-304,306-30c,30f,311-313,315,31b,323-329,32d-332,335,391-392,394-397,399-39a,39c-39d,39f,3a1,3a3-3a5,3a7,3a9,3bc,3c0,e3f,1e00-1e97,1e9e,1ea0-1ef9,2000-200d,2010-2015,2018-201e,2020-2022,2026,202f-2030,2032-2033,2039-203a,203c,2044,2052,205f,2070,2074-2079,2080-2089,20a1,20a3-20a4,20a6-20a7,20a9,20ab-20ad,20b1-20b2,20b4-20b5,20b8-20ba,20bc-20bd,2105-2106,2113,2116-2117,2120,2122,2126,212e,2153-2154,215b-215e,2190-2199,2202,2205-2206,220f,2211-2212,2215,2219-221a,221e,222b,2248,2260,2264-2265,25ca,25cc,27e8-27e9,2c65-2c66,a78b-a78c,a7ae,fb01-fb02",
+   "core": false
+  },
+  {
+   "path": "gelasio-regular.48c797fbe0e0.ttf",
+   "id": "gelasio",
+   "family": "Gelasio",
+   "style": "regular",
+   "class": "serif",
+   "size": 147572,
+   "sha256": "48c797fbe0e07c48a18cb962e7bdfa23f19618327dddf54093265328dc9eb39d",
+   "licence": "OFL-1.1",
+   "licenceFile": "gelasio.OFL.b393cb01867c.txt",
+   "standsFor": [
+    {
+     "name": "Georgia",
+     "match": "metric",
+     "lineMetrics": {
+      "ascent": 0.917,
+      "descent": 0.219
+     }
+    }
+   ],
+   "ranges": "d,20-7f,a0-ac,ae-148,14a-17f,181,186,189-18a,18e-190,192,197-19a,19c-19d,1a0-1a1,1a9,1af-1b1,1b3-1b4,1b7,1c4-1f5,1f8-21b,21e-21f,226-233,237,23a-23e,241-242,244-247,253-254,256-257,259,25b,265,268,26f,272,275,283,289-28a,28c,292,294-295,298,2b9-2c0,2c6-2cc,2d8-2dd,300-304,306-30c,30f,311-313,315,31b,323-329,32d-332,335,391-392,394-397,399-39a,39c-39d,39f,3a1,3a3-3a5,3a7,3a9,3bc,3c0,e3f,1e00-1e97,1e9e,1ea0-1ef9,2000-200d,2010-2015,2018-201e,2020-2022,2026,202f-2030,2032-2033,2039-203a,203c,2044,2052,205f,2070,2074-2079,2080-2089,20a1,20a3-20a4,20a6-20a7,20a9,20ab-20ad,20b1-20b2,20b4-20b5,20b8-20ba,20bc-20bd,2105-2106,2113,2116-2117,2120,2122,2126,212e,2153-2154,215b-215e,2190-2199,2202,2205-2206,220f,2211-2212,2215,2219-221a,221e,222b,2248,2260,2264-2265,25ca,25cc,27e8-27e9,2c65-2c66,a78b-a78c,a7ae,fb01-fb02",
+   "core": false
+  },
+  {
+   "path": "liberation-mono-bold.bd62a0672d0b.ttf",
+   "id": "liberation-mono",
+   "family": "Liberation Mono",
+   "style": "bold",
+   "class": "mono",
+   "size": 307996,
+   "sha256": "bd62a0672d0b9b6710b01df434c80ad54fa5f0835207eb7b17b7a761463067bb",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-mono.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Courier New",
+     "match": "metric"
+    },
+    {
+     "name": "Courier",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-236,238-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2007,200c-2010,2012-2015,2017-2022,2026,202a-202e,2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,2640,2642,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23",
+   "core": true
+  },
+  {
+   "path": "liberation-mono-bolditalic.79451f3c09fe.ttf",
+   "id": "liberation-mono",
+   "family": "Liberation Mono",
+   "style": "bolditalic",
+   "class": "mono",
+   "size": 284068,
+   "sha256": "79451f3c09fe25116098853b7a2ca6e2436220ccc11af022979adbcf195be130",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-mono.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Courier New",
+     "match": "metric"
+    },
+    {
+     "name": "Courier",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-236,238-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2007,200c-2010,2012-2015,2017-2022,2026,202a-202e,2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,2640,2642,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23",
+   "core": true
+  },
+  {
+   "path": "liberation-mono-italic.605c01c711b4.ttf",
+   "id": "liberation-mono",
+   "family": "Liberation Mono",
+   "style": "italic",
+   "class": "mono",
+   "size": 281536,
+   "sha256": "605c01c711b44480a7508d349dfbf3264e81fa43d69e61cfa7d10b86e764c4d1",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-mono.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Courier New",
+     "match": "metric"
+    },
+    {
+     "name": "Courier",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-236,238-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2007,200c-2010,2012-2015,2017-2022,2026,202a-202e,2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,2640,2642,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23",
+   "core": true
+  },
+  {
+   "path": "liberation-mono-regular.f2b83c763e8a.ttf",
+   "id": "liberation-mono",
+   "family": "Liberation Mono",
+   "style": "regular",
+   "class": "mono",
+   "size": 319508,
+   "sha256": "f2b83c763e8afd21709333370bed4774337fae82267937e2b5aea7e2fbd922c1",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-mono.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Courier New",
+     "match": "metric"
+    },
+    {
+     "name": "Courier",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-236,238-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2007,200c-2010,2012-2015,2017-2022,2026,202a-202e,2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,2640,2642,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23",
+   "core": true
+  },
+  {
+   "path": "liberation-sans-bold.788abee4c806.ttf",
+   "id": "liberation-sans",
+   "family": "Liberation Sans",
+   "style": "bold",
+   "class": "sans",
+   "size": 414456,
+   "sha256": "788abee4c806d660e8aee46689dd8540cd4bb98da03dcc9d171ce3efd99a9173",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-sans.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Arial",
+     "match": "metric"
+    },
+    {
+     "name": "Helvetica",
+     "match": "metric"
+    },
+    {
+     "name": "Arial MT",
+     "match": "metric"
+    },
+    {
+     "name": "Aptos",
+     "match": "similar"
+    },
+    {
+     "name": "Aptos Display",
+     "match": "similar"
+    }
+   ],
+   "ranges": "20-7e,a0-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2010,2012-2022,2026,202a-2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,263f-2647,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23,fffc",
+   "core": true
+  },
+  {
+   "path": "liberation-sans-bolditalic.698da70fc191.ttf",
+   "id": "liberation-sans",
+   "family": "Liberation Sans",
+   "style": "bolditalic",
+   "class": "sans",
+   "size": 408996,
+   "sha256": "698da70fc191cc5f33ad4d6d3fe830fe4624b898ea2e3169955928b7c491f1ee",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-sans.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Arial",
+     "match": "metric"
+    },
+    {
+     "name": "Helvetica",
+     "match": "metric"
+    },
+    {
+     "name": "Arial MT",
+     "match": "metric"
+    },
+    {
+     "name": "Aptos",
+     "match": "similar"
+    },
+    {
+     "name": "Aptos Display",
+     "match": "similar"
+    }
+   ],
+   "ranges": "20-7e,a0-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2010,2012-2022,2026,202a-2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,263f-2647,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23,fffc",
+   "core": true
+  },
+  {
+   "path": "liberation-sans-italic.e5bae5c4cde3.ttf",
+   "id": "liberation-sans",
+   "family": "Liberation Sans",
+   "style": "italic",
+   "class": "sans",
+   "size": 415816,
+   "sha256": "e5bae5c4cde31f22142753855f4f8fb86da6ff39955ed3c0a11248b0d16948b0",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-sans.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Arial",
+     "match": "metric"
+    },
+    {
+     "name": "Helvetica",
+     "match": "metric"
+    },
+    {
+     "name": "Arial MT",
+     "match": "metric"
+    },
+    {
+     "name": "Aptos",
+     "match": "similar"
+    },
+    {
+     "name": "Aptos Display",
+     "match": "similar"
+    }
+   ],
+   "ranges": "20-7e,a0-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2010,2012-2022,2026,202a-2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,263f-2647,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23,fffc",
+   "core": true
+  },
+  {
+   "path": "liberation-sans-regular.76d04c18ea24.ttf",
+   "id": "liberation-sans",
+   "family": "Liberation Sans",
+   "style": "regular",
+   "class": "sans",
+   "size": 410712,
+   "sha256": "76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-sans.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Arial",
+     "match": "metric"
+    },
+    {
+     "name": "Helvetica",
+     "match": "metric"
+    },
+    {
+     "name": "Arial MT",
+     "match": "metric"
+    },
+    {
+     "name": "Aptos",
+     "match": "similar"
+    },
+    {
+     "name": "Aptos Display",
+     "match": "similar"
+    }
+   ],
+   "ranges": "20-7e,a0-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2010,2012-2022,2026,202a-2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,263f-2647,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23,fffc",
+   "core": true
+  },
+  {
+   "path": "liberation-serif-bold.d754ba427cfe.ttf",
+   "id": "liberation-serif",
+   "family": "Liberation Serif",
+   "style": "bold",
+   "class": "serif",
+   "size": 370096,
+   "sha256": "d754ba427cfe0bca54ae052384baa8f842da5bd6550ad4da024ac441e7a7d5ce",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-serif.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Times New Roman",
+     "match": "metric"
+    },
+    {
+     "name": "Times",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2010,2012-2022,2026,202a-2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,2640,2642,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,f004,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23,fffc",
+   "core": true
+  },
+  {
+   "path": "liberation-serif-bolditalic.f17db8af71e2.ttf",
+   "id": "liberation-serif",
+   "family": "Liberation Serif",
+   "style": "bolditalic",
+   "class": "serif",
+   "size": 376772,
+   "sha256": "f17db8af71e24d2066b587546021d4f0b296be389512b658dec3c09affeb11a7",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-serif.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Times New Roman",
+     "match": "metric"
+    },
+    {
+     "name": "Times",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2010,2012-2022,2026,202a-2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,2640,2642,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,f004-f005,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23,fffc",
+   "core": true
+  },
+  {
+   "path": "liberation-serif-italic.0e3dea9f8d61.ttf",
+   "id": "liberation-serif",
+   "family": "Liberation Serif",
+   "style": "italic",
+   "class": "serif",
+   "size": 375632,
+   "sha256": "0e3dea9f8d613e006ccfa62201f33e265d19167bd0907725c3e145368b04fc2e",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-serif.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Times New Roman",
+     "match": "metric"
+    },
+    {
+     "name": "Times",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2010,2012-2022,2026,202a-2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,2640,2642,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,f001-f002,f004-f005,f00a-f00e,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23,fffc",
+   "core": true
+  },
+  {
+   "path": "liberation-serif-regular.058ea80864ae.ttf",
+   "id": "liberation-serif",
+   "family": "Liberation Serif",
+   "style": "regular",
+   "class": "serif",
+   "size": 393576,
+   "sha256": "058ea80864aef09a23f45cbec2bb5400bc3dfbdea01c3f10538a21fcb497fb74",
+   "licence": "OFL-1.1",
+   "licenceFile": "liberation-serif.OFL.93fed46019c3.txt",
+   "standsFor": [
+    {
+     "name": "Times New Roman",
+     "match": "metric"
+    },
+    {
+     "name": "Times",
+     "match": "metric"
+    }
+   ],
+   "ranges": "20-7e,a0-36f,374-375,37a-37e,384-38a,38c,38e-3a1,3a3-3ce,3d0-513,51a-51d,591-5c7,5d0-5ea,5f0-5f4,1d00-1dca,1dfe-1e9b,1e9e,1ea0-1ef9,1f00-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2010,2012-2022,2026,202a-2030,2032-2034,2039-203a,203c,203e,2044,205e,206a-206f,2074-2079,207f-2089,2090-2094,20a0-20b5,20bf,20f0,2105,2113,2116-2117,2122,2126,212e,214d-214e,2153-2154,215b-215e,2184,2190-2195,21a8,21d4,2202,2206,220f,2211-2212,2215,2219-221a,221e-221f,2229,222b,2248,2260-2262,2264-2265,2302,2310,2320-2321,2500,2502,250c,2510,2514,2518,251c,2524,252c,2534,253c,2550-256c,2580,2584,2588,258c,2590-2593,25a0-25a1,25aa-25ac,25b2,25ba,25bc,25c4,25ca-25cc,25cf-25d9,25e6,263a-263c,2640,2642,2660,2663,2665-2666,2669-266c,266f,2c60-2c6d,2c71-2c77,2e17,a717-a721,a788-a78c,f004,fb01-fb02,fb1d-fb36,fb38-fb3c,fb3e,fb40-fb41,fb43-fb44,fb46-fb4f,fe20-fe23,fffc",
+   "core": true
+  },
+  {
+   "path": "noto-sans-bold.87cb2d84472a.ttf",
+   "id": "noto-sans",
+   "family": "Noto Sans",
+   "style": "bold",
+   "class": "sans",
+   "size": 432376,
+   "sha256": "87cb2d84472a7d66da659ee47b6cdb9552326e8c128245231f191b6ac72529d9",
+   "licence": "OFL-1.1",
+   "licenceFile": "noto-sans.OFL.cee9892f9f0c.txt",
+   "standsFor": [
+    {
+     "name": "Segoe UI",
+     "match": "similar"
+    }
+   ],
+   "ranges": "0,d,20-7e,a0-377,37a-37f,384-38a,38c,38e-3a1,3a3-3e1,3f0-52f,10fb,1ab0-1ac0,1ac5,1ac7-1ace,1c80-1c88,1d00-1df9,1dfb-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2064,2066-2071,2074-208e,2090-209c,20a0-20c0,20f0,2100-215f,2183-2184,2189,2212,25cc,2c60-2c7f,2de0-2e5d,a640-a69f,a700-a7ca,a7d0-a7d1,a7d3,a7d5-a7d9,a7f2-a7ff,a92e,ab30-ab6b,fb00-fb06,fe00,fe20-fe2f,feff,fffc-fffd,10780-10785,10787-107b0,107b2-107ba,1df00-1df1e",
+   "core": false
+  },
+  {
+   "path": "noto-sans-bolditalic.3d367743f371.ttf",
+   "id": "noto-sans",
+   "family": "Noto Sans",
+   "style": "bolditalic",
+   "class": "sans",
+   "size": 441936,
+   "sha256": "3d367743f371f28671d2764e911a53d7c20ec9b6aa8791d059e7090389fc52a5",
+   "licence": "OFL-1.1",
+   "licenceFile": "noto-sans.OFL.cee9892f9f0c.txt",
+   "standsFor": [
+    {
+     "name": "Segoe UI",
+     "match": "similar"
+    }
+   ],
+   "ranges": "0,d,20-7e,a0-377,37a-37f,384-38a,38c,38e-3a1,3a3-3e1,3f0-52f,1ab0-1ac0,1ac5,1ac7-1ace,1c80-1c88,1d00-1df9,1dfb-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2064,2066-2071,2074-208e,2090-209c,20a0-20bf,20f0,2100-215f,2184,2189,2212,25cc,2c60-2c7f,2de0-2e5d,a640-a69f,a700-a7ca,a7d0-a7d1,a7d3,a7d5-a7d9,a7f2-a7ff,a92e,ab30-ab6b,fb00-fb06,fe00,fe20-fe2f,feff,fffc-fffd,10780-10785,10787-107b0,107b2-107ba,1df00-1df1e",
+   "core": false
+  },
+  {
+   "path": "noto-sans-italic.678288f86880.ttf",
+   "id": "noto-sans",
+   "family": "Noto Sans",
+   "style": "italic",
+   "class": "sans",
+   "size": 446880,
+   "sha256": "678288f868807d4d64a6f3b51466871d117d915780381ce9d0ed4b3bcbd06d37",
+   "licence": "OFL-1.1",
+   "licenceFile": "noto-sans.OFL.cee9892f9f0c.txt",
+   "standsFor": [
+    {
+     "name": "Segoe UI",
+     "match": "similar"
+    }
+   ],
+   "ranges": "0,d,20-7e,a0-377,37a-37f,384-38a,38c,38e-3a1,3a3-3e1,3f0-52f,1ab0-1ac0,1ac5,1ac7-1ace,1c80-1c88,1d00-1df9,1dfb-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2064,2066-2071,2074-208e,2090-209c,20a0-20bf,20f0,2100-215f,2184,2189,2212,25cc,2c60-2c7f,2de0-2e5d,a640-a69f,a700-a7ca,a7d0-a7d1,a7d3,a7d5-a7d9,a7f2-a7ff,a92e,ab30-ab6b,fb00-fb06,fe00,fe20-fe2f,feff,fffc-fffd,10780-10785,10787-107b0,107b2-107ba,1df00-1df1e",
+   "core": false
+  },
+  {
+   "path": "noto-sans-regular.f3961a9cde01.ttf",
+   "id": "noto-sans",
+   "family": "Noto Sans",
+   "style": "regular",
+   "class": "sans",
+   "size": 431364,
+   "sha256": "f3961a9cde016d41a4879aecda1474d3a36d6bf54fa0e4643de029cc2248b0e8",
+   "licence": "OFL-1.1",
+   "licenceFile": "noto-sans.OFL.cee9892f9f0c.txt",
+   "standsFor": [
+    {
+     "name": "Segoe UI",
+     "match": "similar"
+    }
+   ],
+   "ranges": "0,d,20-7e,a0-377,37a-37f,384-38a,38c,38e-3a1,3a3-3e1,3f0-52f,10fb,1ab0-1ac0,1ac5,1ac7-1ace,1c80-1c88,1d00-1df9,1dfb-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2064,2066-2071,2074-208e,2090-209c,20a0-20c0,20f0,2100-215f,2183-2184,2189,2212,25cc,2c60-2c7f,2de0-2e5d,a640-a69f,a700-a7ca,a7d0-a7d1,a7d3,a7d5-a7d9,a7f2-a7ff,a92e,ab30-ab6b,fb00-fb06,fe00,fe20-fe2f,feff,fffc-fffd,10780-10785,10787-107b0,107b2-107ba,1df00-1df1e",
+   "core": false
+  },
+  {
+   "path": "noto-serif-bold.24ad531e6b05.ttf",
+   "id": "noto-serif",
+   "family": "Noto Serif",
+   "style": "bold",
+   "class": "serif",
+   "size": 481892,
+   "sha256": "24ad531e6b05ddad8c3d89572d2c93eb86a6b74e652ce7ee3c3e171de68e84c3",
+   "licence": "OFL-1.1",
+   "licenceFile": "noto-serif.OFL.cee9892f9f0c.txt",
+   "standsFor": [],
+   "ranges": "0,d,20-7e,a0-377,37a-37f,384-38a,38c,38e-3a1,3a3-3e1,3f0-52f,10fb,1ab0-1ac0,1ac5,1ac7-1ace,1c80-1c88,1d00-1df9,1dfb-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2064,2066-2071,2074-208e,2090-209c,20a0-20c0,20f0,2100-215f,2183-2184,2189,2212,25cc,2c60-2c7f,2de0-2e5d,a640-a69f,a700-a7ca,a7d0-a7d1,a7d3,a7d5-a7d9,a7f2-a7ff,a92e,ab30-ab6b,fb00-fb06,fe00,fe20-fe2f,feff,fffc-fffd,10780-10785,10787-107b0,107b2-107ba,1df00-1df1e",
+   "core": false
+  },
+  {
+   "path": "noto-serif-bolditalic.1bc4f86502ea.ttf",
+   "id": "noto-serif",
+   "family": "Noto Serif",
+   "style": "bolditalic",
+   "class": "serif",
+   "size": 513280,
+   "sha256": "1bc4f86502eaa368718f6192bee022ea9a703d5af1c18b7d291212657b63074a",
+   "licence": "OFL-1.1",
+   "licenceFile": "noto-serif.OFL.cee9892f9f0c.txt",
+   "standsFor": [],
+   "ranges": "0,d,20-7e,a0-377,37a-37f,384-38a,38c,38e-3a1,3a3-3e1,3f0-52f,1ab0-1ac0,1ac5,1ac7-1ace,1c80-1c88,1d00-1df9,1dfb-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2064,2066-2071,2074-208e,2090-209c,20a0-20bf,20f0,2100-215f,2184,2189,2212,25cc,2c60-2c7f,2de0-2e5d,a640-a69f,a700-a7ca,a7d0-a7d1,a7d3,a7d5-a7d9,a7f2-a7ff,a92e,ab30-ab6b,fb00-fb06,fe00,fe20-fe2f,feff,fffc-fffd,10780-10785,10787-107b0,107b2-107ba,1df00-1df1e",
+   "core": false
+  },
+  {
+   "path": "noto-serif-italic.c4b3c971741e.ttf",
+   "id": "noto-serif",
+   "family": "Noto Serif",
+   "style": "italic",
+   "class": "serif",
+   "size": 513428,
+   "sha256": "c4b3c971741ecdb40f5a443bce754e8fe91efe761b6ea10c92be7c3597cdadc4",
+   "licence": "OFL-1.1",
+   "licenceFile": "noto-serif.OFL.cee9892f9f0c.txt",
+   "standsFor": [],
+   "ranges": "0,d,20-7e,a0-377,37a-37f,384-38a,38c,38e-3a1,3a3-3e1,3f0-52f,1ab0-1ac0,1ac5,1ac7-1ace,1c80-1c88,1d00-1df9,1dfb-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2064,2066-2071,2074-208e,2090-209c,20a0-20bf,20f0,2100-215f,2184,2189,2212,25cc,2c60-2c7f,2de0-2e5d,a640-a69f,a700-a7ca,a7d0-a7d1,a7d3,a7d5-a7d9,a7f2-a7ff,a92e,ab30-ab6b,fb00-fb06,fe00,fe20-fe2f,feff,fffc-fffd,10780-10785,10787-107b0,107b2-107ba,1df00-1df1e",
+   "core": false
+  },
+  {
+   "path": "noto-serif-regular.a15cfbbc1539.ttf",
+   "id": "noto-serif",
+   "family": "Noto Serif",
+   "style": "regular",
+   "class": "serif",
+   "size": 482540,
+   "sha256": "a15cfbbc1539d707115111d672d590a3d70d4f74b4c0a315956da20ae19a14e1",
+   "licence": "OFL-1.1",
+   "licenceFile": "noto-serif.OFL.cee9892f9f0c.txt",
+   "standsFor": [],
+   "ranges": "0,d,20-7e,a0-377,37a-37f,384-38a,38c,38e-3a1,3a3-3e1,3f0-52f,10fb,1ab0-1ac0,1ac5,1ac7-1ace,1c80-1c88,1d00-1df9,1dfb-1f15,1f18-1f1d,1f20-1f45,1f48-1f4d,1f50-1f57,1f59,1f5b,1f5d,1f5f-1f7d,1f80-1fb4,1fb6-1fc4,1fc6-1fd3,1fd6-1fdb,1fdd-1fef,1ff2-1ff4,1ff6-1ffe,2000-2064,2066-2071,2074-208e,2090-209c,20a0-20c0,20f0,2100-215f,2183-2184,2189,2212,25cc,2c60-2c7f,2de0-2e5d,a640-a69f,a700-a7ca,a7d0-a7d1,a7d3,a7d5-a7d9,a7f2-a7ff,a92e,ab30-ab6b,fb00-fb06,fe00,fe20-fe2f,feff,fffc-fffd,10780-10785,10787-107b0,107b2-107ba,1df00-1df1e",
+   "core": false
+  }
+ ]
+}

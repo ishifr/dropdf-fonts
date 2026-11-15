@@ -1,0 +1,7 @@
+# The local virtual environment (uv venv .venv)
+.venv/
+__pycache__/
+*.pyc
+# A write build.py did not finish
+dist/.*.tmp
+.DS_Store

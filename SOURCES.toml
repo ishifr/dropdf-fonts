@@ -1,0 +1,376 @@
+# Where every file under families/ came from, and its SHA-256.
+#
+# build.py refuses to run unless every file under families/ is listed here
+# exactly once and matches its sha256. A file taken from a release archive
+# also records the archive's own SHA-256 (archive_sha256) and its path inside
+# the archive (member). How to update is in README.md.
+#
+# The files are copies, byte for byte, of the upstream files: nothing here is
+# modified, subset or renamed (Carlito and Liberation have Reserved Font
+# Names, so a modified copy would have to be renamed).
+
+# --- carlito ---
+[[file]]
+id = "carlito"
+path = "families/carlito/Carlito-Bold.ttf"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/carlito/3a810cab78ebd6e2e4eed42af9e8453c4f9b850a/fonts/ttf/Carlito-Bold.ttf"
+upstream_ref = "3a810cab78ebd6e2e4eed42af9e8453c4f9b850a"
+sha256 = "bb5d20f79b82599ec72983597437373a80f2d2085fa91fc144fd74e876a594db"
+
+[[file]]
+id = "carlito"
+path = "families/carlito/Carlito-BoldItalic.ttf"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/carlito/3a810cab78ebd6e2e4eed42af9e8453c4f9b850a/fonts/ttf/Carlito-BoldItalic.ttf"
+upstream_ref = "3a810cab78ebd6e2e4eed42af9e8453c4f9b850a"
+sha256 = "b32928186c119599e03ca6a1ffc680fdcb7fac95772f4b95d989cf6cd3861517"
+
+[[file]]
+id = "carlito"
+path = "families/carlito/Carlito-Italic.ttf"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/carlito/3a810cab78ebd6e2e4eed42af9e8453c4f9b850a/fonts/ttf/Carlito-Italic.ttf"
+upstream_ref = "3a810cab78ebd6e2e4eed42af9e8453c4f9b850a"
+sha256 = "0b019225e58d702bfedcbd35c21696769f8ee115cb6343f84c2f240312450d1c"
+
+[[file]]
+id = "carlito"
+path = "families/carlito/Carlito-Regular.ttf"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/carlito/3a810cab78ebd6e2e4eed42af9e8453c4f9b850a/fonts/ttf/Carlito-Regular.ttf"
+upstream_ref = "3a810cab78ebd6e2e4eed42af9e8453c4f9b850a"
+sha256 = "f6418f708baede9789daef5d458c0f53d2a888af9820e8062934e504fedc6595"
+
+[[file]]
+id = "carlito"
+path = "families/carlito/OFL.txt"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/carlito/3a810cab78ebd6e2e4eed42af9e8453c4f9b850a/OFL.txt"
+upstream_ref = "3a810cab78ebd6e2e4eed42af9e8453c4f9b850a"
+sha256 = "58402f82a7c332a700294988fe7554fbb0a63a8d27ccc1ee3bbc640311990a00"
+
+# --- caladea ---
+[[file]]
+id = "caladea"
+path = "families/caladea/Caladea-Bold.ttf"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/caladea/336a529cfad3d103d6527752686f8331d13e820a/fonts/ttf/Caladea-Bold.ttf"
+upstream_ref = "336a529cfad3d103d6527752686f8331d13e820a"
+sha256 = "ae3cb2dcbc925809dd29d2a44e9802211cab66be541bacbfc9c08c74b27c3742"
+
+[[file]]
+id = "caladea"
+path = "families/caladea/Caladea-BoldItalic.ttf"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/caladea/336a529cfad3d103d6527752686f8331d13e820a/fonts/ttf/Caladea-BoldItalic.ttf"
+upstream_ref = "336a529cfad3d103d6527752686f8331d13e820a"
+sha256 = "ccabaa7b7e2fdf253d2b1a5fa699dd8a3df8d835a9eb285ad82631a677eb76c0"
+
+[[file]]
+id = "caladea"
+path = "families/caladea/Caladea-Italic.ttf"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/caladea/336a529cfad3d103d6527752686f8331d13e820a/fonts/ttf/Caladea-Italic.ttf"
+upstream_ref = "336a529cfad3d103d6527752686f8331d13e820a"
+sha256 = "4359a8e24f748b6447b1ff6d7a174febe70961d29f8bb8634b56dacd740a3deb"
+
+[[file]]
+id = "caladea"
+path = "families/caladea/Caladea-Regular.ttf"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/caladea/336a529cfad3d103d6527752686f8331d13e820a/fonts/ttf/Caladea-Regular.ttf"
+upstream_ref = "336a529cfad3d103d6527752686f8331d13e820a"
+sha256 = "f1e899278b7b4491aba5b6a8253c4b04c050cc59b21865be5c37559a775153cd"
+
+[[file]]
+id = "caladea"
+path = "families/caladea/OFL.txt"
+upstream_url = "https://raw.githubusercontent.com/googlefonts/caladea/336a529cfad3d103d6527752686f8331d13e820a/OFL.txt"
+upstream_ref = "336a529cfad3d103d6527752686f8331d13e820a"
+sha256 = "ccdab61d371d8c8683a128a92cd7d498dbdb1d37689f7cb21f1bf6b16658d213"
+
+# --- liberation-sans ---
+[[file]]
+id = "liberation-sans"
+path = "families/liberation-sans/LiberationSans-Bold.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "788abee4c806d660e8aee46689dd8540cd4bb98da03dcc9d171ce3efd99a9173"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationSans-Bold.ttf"
+
+[[file]]
+id = "liberation-sans"
+path = "families/liberation-sans/LiberationSans-BoldItalic.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "698da70fc191cc5f33ad4d6d3fe830fe4624b898ea2e3169955928b7c491f1ee"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationSans-BoldItalic.ttf"
+
+[[file]]
+id = "liberation-sans"
+path = "families/liberation-sans/LiberationSans-Italic.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "e5bae5c4cde31f22142753855f4f8fb86da6ff39955ed3c0a11248b0d16948b0"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationSans-Italic.ttf"
+
+[[file]]
+id = "liberation-sans"
+path = "families/liberation-sans/LiberationSans-Regular.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationSans-Regular.ttf"
+
+[[file]]
+id = "liberation-sans"
+path = "families/liberation-sans/LICENSE"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LICENSE"
+
+# --- liberation-serif ---
+[[file]]
+id = "liberation-serif"
+path = "families/liberation-serif/LiberationSerif-Bold.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "d754ba427cfe0bca54ae052384baa8f842da5bd6550ad4da024ac441e7a7d5ce"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationSerif-Bold.ttf"
+
+[[file]]
+id = "liberation-serif"
+path = "families/liberation-serif/LiberationSerif-BoldItalic.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "f17db8af71e24d2066b587546021d4f0b296be389512b658dec3c09affeb11a7"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationSerif-BoldItalic.ttf"
+
+[[file]]
+id = "liberation-serif"
+path = "families/liberation-serif/LiberationSerif-Italic.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "0e3dea9f8d613e006ccfa62201f33e265d19167bd0907725c3e145368b04fc2e"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationSerif-Italic.ttf"
+
+[[file]]
+id = "liberation-serif"
+path = "families/liberation-serif/LiberationSerif-Regular.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "058ea80864aef09a23f45cbec2bb5400bc3dfbdea01c3f10538a21fcb497fb74"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationSerif-Regular.ttf"
+
+[[file]]
+id = "liberation-serif"
+path = "families/liberation-serif/LICENSE"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LICENSE"
+
+# --- liberation-mono ---
+[[file]]
+id = "liberation-mono"
+path = "families/liberation-mono/LiberationMono-Bold.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "bd62a0672d0b9b6710b01df434c80ad54fa5f0835207eb7b17b7a761463067bb"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationMono-Bold.ttf"
+
+[[file]]
+id = "liberation-mono"
+path = "families/liberation-mono/LiberationMono-BoldItalic.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "79451f3c09fe25116098853b7a2ca6e2436220ccc11af022979adbcf195be130"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationMono-BoldItalic.ttf"
+
+[[file]]
+id = "liberation-mono"
+path = "families/liberation-mono/LiberationMono-Italic.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "605c01c711b44480a7508d349dfbf3264e81fa43d69e61cfa7d10b86e764c4d1"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationMono-Italic.ttf"
+
+[[file]]
+id = "liberation-mono"
+path = "families/liberation-mono/LiberationMono-Regular.ttf"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "f2b83c763e8afd21709333370bed4774337fae82267937e2b5aea7e2fbd922c1"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LiberationMono-Regular.ttf"
+
+[[file]]
+id = "liberation-mono"
+path = "families/liberation-mono/LICENSE"
+upstream_url = "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+upstream_ref = "2.1.5"
+sha256 = "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b"
+archive_sha256 = "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+member = "liberation-fonts-ttf-2.1.5/LICENSE"
+
+# --- gelasio ---
+[[file]]
+id = "gelasio"
+path = "families/gelasio/Gelasio-Bold.ttf"
+upstream_url = "https://raw.githubusercontent.com/SorkinType/Gelasio/7ab20e7e5c42791e603b9ee3201a0b49849cfdb2/fonts/ttf/Gelasio-Bold.ttf"
+upstream_ref = "7ab20e7e5c42791e603b9ee3201a0b49849cfdb2"
+sha256 = "e0ef3addf1acf35f5c6aef2be00d0a2c01363bf70a5950e16650976051a0c462"
+
+[[file]]
+id = "gelasio"
+path = "families/gelasio/Gelasio-BoldItalic.ttf"
+upstream_url = "https://raw.githubusercontent.com/SorkinType/Gelasio/7ab20e7e5c42791e603b9ee3201a0b49849cfdb2/fonts/ttf/Gelasio-BoldItalic.ttf"
+upstream_ref = "7ab20e7e5c42791e603b9ee3201a0b49849cfdb2"
+sha256 = "aa87e21b46aef3dcb50a68dc6e1946f0c0a9819d067e4be6a98a6daa8f5b3c16"
+
+[[file]]
+id = "gelasio"
+path = "families/gelasio/Gelasio-Italic.ttf"
+upstream_url = "https://raw.githubusercontent.com/SorkinType/Gelasio/7ab20e7e5c42791e603b9ee3201a0b49849cfdb2/fonts/ttf/Gelasio-Italic.ttf"
+upstream_ref = "7ab20e7e5c42791e603b9ee3201a0b49849cfdb2"
+sha256 = "1d8bda4ff258bb8251eae4f7d7500c8d97d084136192bb264bc2305168765d1b"
+
+[[file]]
+id = "gelasio"
+path = "families/gelasio/Gelasio-Regular.ttf"
+upstream_url = "https://raw.githubusercontent.com/SorkinType/Gelasio/7ab20e7e5c42791e603b9ee3201a0b49849cfdb2/fonts/ttf/Gelasio-Regular.ttf"
+upstream_ref = "7ab20e7e5c42791e603b9ee3201a0b49849cfdb2"
+sha256 = "48c797fbe0e07c48a18cb962e7bdfa23f19618327dddf54093265328dc9eb39d"
+
+[[file]]
+id = "gelasio"
+path = "families/gelasio/OFL.txt"
+upstream_url = "https://raw.githubusercontent.com/SorkinType/Gelasio/7ab20e7e5c42791e603b9ee3201a0b49849cfdb2/OFL.txt"
+upstream_ref = "7ab20e7e5c42791e603b9ee3201a0b49849cfdb2"
+sha256 = "b393cb01867c919b44381512120dc3e4c954c7b47e2035c405f3a324799a4d29"
+
+# --- comic-relief ---
+[[file]]
+id = "comic-relief"
+path = "families/comic-relief/ComicRelief-Bold.ttf"
+upstream_url = "https://github.com/loudifier/Comic-Relief/releases/download/v1.300/Comic-Relief-v1.300.zip"
+upstream_ref = "v1.300"
+sha256 = "6d2160d7eb68523cc26afe77d295a1b8cc104112cdf931fb0eb5cbac4cea3ed9"
+archive_sha256 = "c03968b482f0824aebb8279337c93fc202c221a4b982f4b0a13a74bea1889367"
+member = "Comic-Relief-v1.300/fonts/ttf/ComicRelief-Bold.ttf"
+
+[[file]]
+id = "comic-relief"
+path = "families/comic-relief/ComicRelief-Regular.ttf"
+upstream_url = "https://github.com/loudifier/Comic-Relief/releases/download/v1.300/Comic-Relief-v1.300.zip"
+upstream_ref = "v1.300"
+sha256 = "be384e0328ee9623a4d39676314d7b99df81cd7320932e6adcfc4f821f13e98e"
+archive_sha256 = "c03968b482f0824aebb8279337c93fc202c221a4b982f4b0a13a74bea1889367"
+member = "Comic-Relief-v1.300/fonts/ttf/ComicRelief-Regular.ttf"
+
+[[file]]
+id = "comic-relief"
+path = "families/comic-relief/OFL.txt"
+upstream_url = "https://github.com/loudifier/Comic-Relief/releases/download/v1.300/Comic-Relief-v1.300.zip"
+upstream_ref = "v1.300"
+sha256 = "997801586dbacfb724ab0b2a9ad0a22534ff202485ce31c6c810ec2e1bf6fb68"
+archive_sha256 = "c03968b482f0824aebb8279337c93fc202c221a4b982f4b0a13a74bea1889367"
+member = "Comic-Relief-v1.300/OFL.txt"
+
+# --- noto-sans ---
+[[file]]
+id = "noto-sans"
+path = "families/noto-sans/NotoSans-Bold.ttf"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSans-v2.015/NotoSans-v2.015.zip"
+upstream_ref = "NotoSans-v2.015"
+sha256 = "87cb2d84472a7d66da659ee47b6cdb9552326e8c128245231f191b6ac72529d9"
+archive_sha256 = "0c34df072a3fa7efbb7cbf34950e1f971a4447cffe365d3a359e2d4089b958f5"
+member = "NotoSans/unhinted/ttf/NotoSans-Bold.ttf"
+
+[[file]]
+id = "noto-sans"
+path = "families/noto-sans/NotoSans-BoldItalic.ttf"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSans-v2.015/NotoSans-v2.015.zip"
+upstream_ref = "NotoSans-v2.015"
+sha256 = "3d367743f371f28671d2764e911a53d7c20ec9b6aa8791d059e7090389fc52a5"
+archive_sha256 = "0c34df072a3fa7efbb7cbf34950e1f971a4447cffe365d3a359e2d4089b958f5"
+member = "NotoSans/unhinted/ttf/NotoSans-BoldItalic.ttf"
+
+[[file]]
+id = "noto-sans"
+path = "families/noto-sans/NotoSans-Italic.ttf"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSans-v2.015/NotoSans-v2.015.zip"
+upstream_ref = "NotoSans-v2.015"
+sha256 = "678288f868807d4d64a6f3b51466871d117d915780381ce9d0ed4b3bcbd06d37"
+archive_sha256 = "0c34df072a3fa7efbb7cbf34950e1f971a4447cffe365d3a359e2d4089b958f5"
+member = "NotoSans/unhinted/ttf/NotoSans-Italic.ttf"
+
+[[file]]
+id = "noto-sans"
+path = "families/noto-sans/NotoSans-Regular.ttf"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSans-v2.015/NotoSans-v2.015.zip"
+upstream_ref = "NotoSans-v2.015"
+sha256 = "f3961a9cde016d41a4879aecda1474d3a36d6bf54fa0e4643de029cc2248b0e8"
+archive_sha256 = "0c34df072a3fa7efbb7cbf34950e1f971a4447cffe365d3a359e2d4089b958f5"
+member = "NotoSans/unhinted/ttf/NotoSans-Regular.ttf"
+
+[[file]]
+id = "noto-sans"
+path = "families/noto-sans/OFL.txt"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSans-v2.015/NotoSans-v2.015.zip"
+upstream_ref = "NotoSans-v2.015"
+sha256 = "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
+archive_sha256 = "0c34df072a3fa7efbb7cbf34950e1f971a4447cffe365d3a359e2d4089b958f5"
+member = "OFL.txt"
+
+# --- noto-serif ---
+[[file]]
+id = "noto-serif"
+path = "families/noto-serif/NotoSerif-Bold.ttf"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSerif-v2.015/NotoSerif-v2.015.zip"
+upstream_ref = "NotoSerif-v2.015"
+sha256 = "24ad531e6b05ddad8c3d89572d2c93eb86a6b74e652ce7ee3c3e171de68e84c3"
+archive_sha256 = "0e9a43c8a4b94ac76f55069ed1d7385bbcaf6b99527a94deb5619e032b7e76c1"
+member = "NotoSerif/unhinted/ttf/NotoSerif-Bold.ttf"
+
+[[file]]
+id = "noto-serif"
+path = "families/noto-serif/NotoSerif-BoldItalic.ttf"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSerif-v2.015/NotoSerif-v2.015.zip"
+upstream_ref = "NotoSerif-v2.015"
+sha256 = "1bc4f86502eaa368718f6192bee022ea9a703d5af1c18b7d291212657b63074a"
+archive_sha256 = "0e9a43c8a4b94ac76f55069ed1d7385bbcaf6b99527a94deb5619e032b7e76c1"
+member = "NotoSerif/unhinted/ttf/NotoSerif-BoldItalic.ttf"
+
+[[file]]
+id = "noto-serif"
+path = "families/noto-serif/NotoSerif-Italic.ttf"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSerif-v2.015/NotoSerif-v2.015.zip"
+upstream_ref = "NotoSerif-v2.015"
+sha256 = "c4b3c971741ecdb40f5a443bce754e8fe91efe761b6ea10c92be7c3597cdadc4"
+archive_sha256 = "0e9a43c8a4b94ac76f55069ed1d7385bbcaf6b99527a94deb5619e032b7e76c1"
+member = "NotoSerif/unhinted/ttf/NotoSerif-Italic.ttf"
+
+[[file]]
+id = "noto-serif"
+path = "families/noto-serif/NotoSerif-Regular.ttf"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSerif-v2.015/NotoSerif-v2.015.zip"
+upstream_ref = "NotoSerif-v2.015"
+sha256 = "a15cfbbc1539d707115111d672d590a3d70d4f74b4c0a315956da20ae19a14e1"
+archive_sha256 = "0e9a43c8a4b94ac76f55069ed1d7385bbcaf6b99527a94deb5619e032b7e76c1"
+member = "NotoSerif/unhinted/ttf/NotoSerif-Regular.ttf"
+
+[[file]]
+id = "noto-serif"
+path = "families/noto-serif/OFL.txt"
+upstream_url = "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSerif-v2.015/NotoSerif-v2.015.zip"
+upstream_ref = "NotoSerif-v2.015"
+sha256 = "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
+archive_sha256 = "0e9a43c8a4b94ac76f55069ed1d7385bbcaf6b99527a94deb5619e032b7e76c1"
+member = "OFL.txt"
